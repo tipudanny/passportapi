@@ -1,7 +1,7 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="#" alt="Laravel Passport Api Authentication"></a>
+<a href="#">Laravel Passport Api Authentication</a>
 </p>
 
 ## About Laravel Passport Api Authentications
